@@ -19,7 +19,7 @@
  },
  {
    "repository":  "LineageOS/android_packages_resources_devicesettings",
-   "target_path": "packages/resorces/devicesettings",
+   "target_path": "packages/resources/devicesettings",
    "revision":    "cm-14.1",
    "remote":      "gh"
  },
