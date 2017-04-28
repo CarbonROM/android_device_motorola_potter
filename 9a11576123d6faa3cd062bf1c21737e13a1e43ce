@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher Vishal Dubey \u003cyzvishal.vd@gmail.com\u003e 1493371796 +0530\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_motorola_potter\nnonce 1493371789-67EE20A8C5E4817829B43E38D8F97315CE6E6437\n\n0000000000000000000000000000000000000000 9a11576123d6faa3cd062bf1c21737e13a1e43ce refs/for/cr-5.1\n-----BEGIN PGP SIGNATURE-----\n\niQFKBAABCAA0FiEExGuSKNZiSAv+V6cX+ZcDuJvrSooFAlkDC5QWHHl6dmlzaGFs\nLnZkQGdtYWlsLmNvbQAKCRD5lwO4m+tKigaaB/sEHRxfMOixmVW3mc9syONNpEF+\n9l2O7g509iMOth9FDmCCeH+irooHeAjSt8a6xRvd3Q9p27ga/xTUcKfQC6VxMlZ8\nJ1yMjkkd/n8/y7FyLw4TjCsKuVeyYk/Yi75/oxG6f486T8+kmBmCFiLk/t3RJl0I\nxUoPI1q0xsRCbyiFuc4kTes5r4h/clqbszBwy2ahgJLQOYqyIb7Yl21BcIBeJFVH\nBR1nmFUuWbkM906bakkLicNhu5BPa30PG3Q3TIXKdpDFk03DCiUw+gee7obLuW/S\ntGITesoyoEoD+CnKSzDYXKpLejmrLTKYn6Hlks70yW5ZE31g9GPOVlF0E6cW\n\u003d4E3f\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
