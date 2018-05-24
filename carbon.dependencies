@@ -10,5 +10,11 @@
     "target_path": "packages/resources/devicesettings",
     "revision"   : "lineage-15.1",
     "remote"	 : "gh"
+  },
+  {
+    "remote"	 : "gh",
+    "repository" : "PixelExperience/packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+    "revision"	 : "oreo-mr1"
   }
 ]
