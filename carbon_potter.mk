@@ -21,6 +21,9 @@ $(call inherit-product, device/motorola/potter/full_potter.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/carbon/config/common.mk)
 
+# Inherit Carbon GSM telephony parts
+$(call inherit-product, vendor/carbon/config/gsm.mk)
+
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
 TARGET_SCREEN_HEIGHT := 1920
