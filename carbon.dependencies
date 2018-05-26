@@ -1,14 +1,14 @@
 [
   {
-    "repository" : "rrajesh011/android_kernel_motorola_msm8953",
-    "target_path": "kernel/motorola/msm8953"
-    "branch"     : "lineage-15.1-64-Extended-Rev9",
-    "remote"	 : "gh"
+    "repository" : "CarbonROM/android_kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "revision"   : "cr-6.1",
+    "remote"	 : "carbon"
   },
   {
     "repository" : "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch"     : "lineage-15.1"
+    "revision"   : "lineage-15.1",
     "remote"	 : "gh"
   }
 ]
