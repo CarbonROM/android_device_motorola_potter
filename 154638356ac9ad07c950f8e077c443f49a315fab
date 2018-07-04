@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher Rajesh \u003crrajesh8087@gmail.com\u003e 1530732227 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_motorola_potter\nnonce 1530732228-0E13E570E49E2724C5DD399A9241BBB3EE44429E\n\n0000000000000000000000000000000000000000 1dd57f5b17c6087deb2585c09b9a39e86f483836 refs/for/cr-6.1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbPR7DAAoJEGESJJ1fjfi2+pEIALDllfMn5lbelDXZHo9JwRfk\nTZYij2szYxJv65v/jGRrf+/VFEKgbtOYy6/ELZTnBoayVLgHXq2oYuUS2EJ1mP4h\ncviz8+TZGs821ALkraUNs0Me8ZX8Qm8xJudnWpMMAKxlIXGqk44FoMflA7b2SUah\neN2PrO2ojuVFMTAQ72mKxz3Au2/cCL0mF8CFacI5ldKLL/5wh0BHvRWwDfaHwXVS\nS3jRS6aeMq/R1Sk8DkvzTYs5tvAvl+SQVi0w5dpxxttX9D/naWVLZgVSECSDhIiV\nKVpXS3/68B9MK2KhpMnR7Xgk37Uk7plVPANYxl2tsCQ4hDAuDNA/5iWnyb3FrQc\u003d\n\u003dT3wo\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
