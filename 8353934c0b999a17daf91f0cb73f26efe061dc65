@@ -1,4 +1,28 @@
 {
   "pushCert": "certificate version 0.1\npusher Rajesh \u003crrajesh8087@gmail.com\u003e 1530646588 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_motorola_potter\nnonce 1530646588-D3A47770E2752C9101A54C8E043DCB38A6DBD93C\n\n0000000000000000000000000000000000000000 8353934c0b999a17daf91f0cb73f26efe061dc65 refs/for/cr-6.1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbO9A8AAoJEGESJJ1fjfi2x1kH/RbtfF4wxTqlLK/jvo2mhUZm\ndJp3Ue8gw42QQFIZTPAfbcTenm/Xci41tsev2vJ5u0qwEUk2QnFq9rHgGrB0ajOu\n/VAcNbSwO2ptADjsa3uySOOQRPe1t1E4IuV/mQgAynicGXsIw7ycWmWs+pgHDul8\nnTYN32HKpslATEf3gLzHQ/LwoOhkzuOzQT2+RLQ6JYsfKjW7kUzps3eO6LRnCJKi\niaCuBADM73W+iW8Jn49q2iiMJyw7gMQRvoZ4rQ9SRIp3b1HWEfUnIJx0pk3iHzUZ\nwJFq3hKwIiQeouPlsEh00mICncbBZpg06EiAA1/p9EafC1XU72FF7k9ZwSX1FRQ\u003d\n\u003dkkql\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "key": {
+        "uuid": "f722ea56_464880ff",
+        "filename": "MotoActions/src/com/moto/actions/KeyHandler.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 548,
+      "author": {
+        "id": 247
+      },
+      "writtenOn": "2018-07-04T19:07:26Z",
+      "side": 1,
+      "message": "trailing space",
+      "range": {
+        "startLine": 548,
+        "startChar": 9,
+        "endLine": 548,
+        "endChar": 10
+      },
+      "revId": "8353934c0b999a17daf91f0cb73f26efe061dc65",
+      "serverId": "4c0b52a2-b090-4331-a190-b288d812d081",
+      "unresolved": false
+    }
+  ]
 }
