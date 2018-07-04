@@ -530,23 +530,7 @@ public class KeyHandler implements DeviceKeyHandler {
     public void handleNavbarToggle(boolean enabled){}
 
     public boolean canHandleKeyEvent(KeyEvent event) {
-        int scanCode = event.getScanCode();
-
-        if (DEBUG) {
-            Log.d(TAG, "DEBUG: action=" + event.getAction()
-                    + ", flags=" + event.getFlags()
-                    + ", keyCode=" + event.getKeyCode()
-                    + ", scanCode=" + event.getScanCode()
-                    + ", metaState=" + event.getMetaState()
-                    + ", repeatCount=" + event.getRepeatCount());
-        }
-
-        boolean isFPScanCode = ArrayUtils.contains(sSupportedFPGestures, scanCode);
-        boolean isScreenOffGesturesScanCode = ArrayUtils.contains(sSupportedScreenOffGestures, scanCode);
-        if (!isFPScanCode && !isScreenOffGesturesScanCode) {
-            return false;
-        } 
-        return true;
+        return false;
     }
 
     private void processFPScancode(int scanCode) {
