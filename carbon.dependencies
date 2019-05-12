@@ -1,0 +1,14 @@
+[
+  { 
+    "remote": "github",
+    "repository":  "CarbonROM/android_kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch": "cr-7.0"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience/packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+    "branch": "pie"
+  }
+]
