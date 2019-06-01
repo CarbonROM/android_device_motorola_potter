@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 06ABEC1B 1559356374 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_motorola_potter\nnonce 1559356374-F1E04D3C03DB013F7A0B76C701519F94A908640E\n\n0000000000000000000000000000000000000000 51ca823dc27e1ca30406deb13672900f989bb0d0 refs/for/cr-7.0\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJc8ePWAAoJEPzf6osGq+wb7yAH/3eTVwcTTCFXgg87tEyWywZ5\neZGbJ0NESyQrCLSRfC+QVCn3g33QQTz/WpmT5t7pfl9/a4J6CDZMzGtg/h9Izmjv\nVp+zqsdiupBSkcBONdKT22v9W91Q5Wkw77tC8LlMQHG0fudqT8SmqdPfWf2oqlkx\nUWEIC03RVJkcS3uBedRojC96DpsFoeUxpXClE1HWg01G2GTl+/4C3QioOYNfecQM\nKTXh1XLovkayDe2q3s1uPtHTaOQblX9xo3IGaTR26GJnam+9xmaglu0ECAV3vqo/\nOxKeVnN1idYzXUUKtegaNvRqe+gI4XtDsHsLk+NWD8szs3A2nBdBzK9lFSVTcms\u003d\n\u003dXd2t\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
