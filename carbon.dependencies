@@ -4,9 +4,7 @@
     "target_path": "kernel/motorola/msm8953"
   },
   {
-    "remote": "gh",
-    "repository" : "PixelExperience-Devices/old_packages_resources_MotoActions",
-    "target_path": "packages/resources/MotoActions",
-    "revision": "pie"
+    "repository" : "CarbonROM/android_packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions"
   }
 ]
